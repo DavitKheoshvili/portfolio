@@ -62,7 +62,8 @@ export const Portfolio: React.FC = () => {
             </ul>
           </div>
         </div>
-      <a href="https://github.com/DavitKheoshvili" className='github_link'>Visit Github Profile</a>
+        <a href="https://github.com/DavitKheoshvili" className='github_link'>Visit Github Profile</a>
+        <a href="https://www.linkedin.com/in/davit-kheoshvili-57a075155/" className='github_link'>Visit LinkedIn Profile</a>
       </div>
     </div>
   );
