@@ -31,6 +31,15 @@ export const Portfolio: React.FC = () => {
             </ul>
           </div>
           <div>
+            <h3 className='heading'>Relational Databases</h3>
+            <ul className='skill_list'>
+              <li>MySQL</li>
+              <li>CSS</li>
+              <li>Tailwind CSS</li>
+              <li>Styled Components</li>
+            </ul>
+          </div>
+          <div>
             <h3 className='heading'>Version Control Systems and other tools</h3>
             <ul className='skill_list'>
               <li>Git</li>
@@ -53,7 +62,7 @@ export const Portfolio: React.FC = () => {
             </ul>
           </div>
         </div>
-
+      <a href="https://github.com/DavitKheoshvili" className='github_link'>Visit Github Profile</a>
       </div>
     </div>
   );

@@ -16,7 +16,6 @@ export const WhoAmI: React.FC = () => {
           I value responsibility, efficiency, and trust and work hard to ensure every task is completed on time and to the best of my abilities. Whether you are looking for a one-time collaboration or a long-term partnership, I'm always happy to hear from new people in the industry. Please feel free to reach out and learn more about how I can bring value to your next project.
         </p>
       </div>
-
     </div>
   );
 }

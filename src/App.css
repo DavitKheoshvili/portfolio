@@ -215,3 +215,10 @@ a {
 .heading {
   font-size: 30px;
 }
+
+.github_link {
+  font-size: 30px;
+  display: block;
+  color: rgb(76, 180, 214);
+  margin: 30px auto; 
+}
