@@ -61,6 +61,17 @@ export const Portfolio: React.FC = () => {
               <li>Composer</li>
             </ul>
           </div>
+          <div>
+            <h3 className='heading'>Learning Materials</h3>
+            <ul className='skill_list'>
+              <li><a href="https://codehs.com" target={"_blank"}>Codehs.com</a></li>
+              <li><a href="https://freecodecamp.org" target={"_blank"}>Freecodecamp.org</a></li>
+              <li><a href="https://fullstackopen.com" target={"_blank"}>Fullstackopen.com</a></li>
+              <li><a href="https://youtu.be/sVbEyFZKgqk" target={"_blank"}>Youtube Course - Learn PHP The Right Way</a></li>
+              <li><a href="https://www.youtube.com/@TheCodeholic" target={"_blank"}>Youtube Channel: The Codeholic</a></li>
+              <li><a href="https://www.youtube.com/@WebDevSimplified" target={"_blank"}>Youtube Channel: Web Dev Simplified</a></li>
+            </ul>
+          </div>
         </div>
         <a href="https://github.com/DavitKheoshvili" className='github_link'>Visit Github Profile</a>
         <a href="https://www.linkedin.com/in/davit-kheoshvili-57a075155/" className='github_link'>Visit LinkedIn Profile</a>
